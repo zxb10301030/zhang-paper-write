@@ -1,0 +1,4 @@
+interface:
+  display_name: "张学兵·理论论文写作"
+  short_description: "按个人偏好组织引言、连续长公式证明及理论导向数值，中英文同步修改"
+  default_prompt: "使用 $zhang-theory-paper-style，按我的个人写作偏好检查或修改当前论文，保持数学结论准确、中英文同步。"
